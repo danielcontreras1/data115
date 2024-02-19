@@ -20,7 +20,7 @@
  ✌️ &emsp; Enjoy to learn programming <br/><br/>
  ❤️ &emsp; Make friends<br/><br/>
  🐄 &emsp; I am cow lover<br/><br/>
- 💬 &emsp; Ask me about anything [here](daniel.contreras1@wsu.edu)
+ 💬 &emsp; Ask me about anything daniel.contreras1@wsu.edu<br/>
 
 </p>
 
